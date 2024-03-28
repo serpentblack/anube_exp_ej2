@@ -32,7 +32,7 @@ A continuación, encontraras los diferentes comandos:
 •	Dentro de tu código JavaScript realizar los siguientes llamados o casos de prueba de la función **stringAnalizer:**
 
 
-![Prototipo de la función](img/img_1.png)
+![Prototipo de la función](img/a.png)
 
 •	Crea un archivo de nombre **script.js** para escribir tu función y código JavaScript.
 
@@ -40,7 +40,7 @@ A continuación, encontraras los diferentes comandos:
 
 •	Abre tu browser predeterminado (se sugiere Google Chrome), luego las herramientas de desarrollador e inspecciona los resultados de ejecución:
 
-![Ejecución en consola](img/img_2.png)
+![Ejecución en consola](img/b.png)
 
 
 ![Desarrollo extremo](img/about.png)
